@@ -1,5 +1,26 @@
 [
     {
+        "id": 36,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1708978838/bangles/golden-bangles/bangle4.webp",
+        "description":  "Golden Bangle",
+        "detail": "Beautiful Golden Bangle",
+        "price": "...."
+    },
+    {
+        "id": 37,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1708978837/bangles/golden-bangles/bangle5.webp",
+        "description":  "Golden Bangle",
+        "detail": "Beautiful Golden Bangle",
+        "price": "...."
+    },
+    {
+        "id": 38,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1708978837/bangles/golden-bangles/bangle6.webp",
+        "description":  "Golden Bangle",
+        "detail": "Beautiful Golden Bangle",
+        "price": "...."
+    },
+    {
         "id": 33,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1703493682/bangles/golden-bangles/bangle3.webp",
         "description":  "Golden Bangle",
