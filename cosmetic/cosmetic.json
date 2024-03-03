@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "url": "cosmetics/makeup/makeup1",
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659088/cosmetics/makeup/makeup1",
         "category": "MAKEUP KIT",
         "goto": "/products/cosmetic/cosmetics/makeup"
     }
