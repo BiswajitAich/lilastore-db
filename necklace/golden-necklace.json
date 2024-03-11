@@ -1,9 +1,37 @@
 [
     {
-        "id": 62,
-        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1708978648/necklace/choker/golden-necklace62.webp",
+        "id": 67,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1709895898/necklace/golden-necklace/golden-necklace67.webp",
+        "description": "Beautiful Golden Necklace",
+        "detail": "Beautiful Golden Necklace \n Material: Red Pola \n",
+        "price": "340"
+    },
+    {
+        "id": 68,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1709895898/necklace/golden-necklace/golden-necklace68.webp",
+        "description": "Beautiful Golden Necklace",
+        "detail": "Beautiful Golden Necklace \n",
+        "price": "350"
+    },
+    {
+        "id": 69,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1709895898/necklace/golden-necklace/golden-necklace69.webp",
+        "description": "Beautiful Golden Necklace",
+        "detail": "Beautiful Golden Necklace \n ",
+        "price": "350"
+    },
+    {
+        "id": 70,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1709895898/necklace/golden-necklace/golden-necklace70.webp",
         "description": "Beautiful Golden Pola Necklace",
         "detail": "Beautiful Golden Necklace \n Material: Red Pola \n",
+        "price": "340"
+    },
+    {
+        "id": 62,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1708978648/necklace/choker/golden-necklace62.webp",
+        "description": "Beautiful Golden Necklace",
+        "detail": "Beautiful Golden Necklace \n ",
         "price": "260"
     },
     {
@@ -17,7 +45,7 @@
         "id": 64,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1708978648/necklace/choker/golden-necklace64.webp",
         "description": "Beautiful Golden Chain Necklace",
-        "detail": "Beautiful Golden Necklace \n Type: Chain with pendent. \n Design: Elephant Face(lord Ganesha) \n",
+        "detail": "Beautiful Golden Necklace \n Type: Chain with pendent. \n Design: sankha \n",
         "price": "300"
     },
     {
