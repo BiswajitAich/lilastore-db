@@ -122,14 +122,14 @@
         "id": 57,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1705932752/necklace/golden-necklace/golden-necklace2.webp",
         "description": "Beautiful Golden Necklace",
-        "detail": "Beautiful Golden Necklace \n",
+        "detail": "Beautiful Golden Necklace \n[currently not available]\n",
         "price": "180"
     },
     {
         "id": 58,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1705932745/necklace/golden-necklace/gloden-necklace1.webp",
         "description": "Beautiful Golden Necklace",
-        "detail": "Beautiful Golden Necklace \n",
+        "detail": "Beautiful Golden Necklace \n [currently not available]\n",
         "price": "180"
     },
     {
@@ -309,13 +309,6 @@
         "description": "Beautiful Golden Necklace",
         "detail": "Beautiful Golden Necklace \n",
         "price": "300"
-    },
-    {
-        "id": 34,
-        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1696574882/necklace/golden-necklace/neck5.b68201d50b0de08495c9_kznihh.jpg",
-        "description": "Beautiful Golden Necklace",
-        "detail": "Beautiful Golden Necklace \n [Currently out of stock]\n",
-        "price": "700"
     },
     {
         "id": 35,

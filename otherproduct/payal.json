@@ -1,16 +1,23 @@
 [
     {
+        "id": 7,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1711865441/more-products/payals/payals7.webp",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
+        "price": "130"
+    },
+    {
         "id": 1,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659564/more-products/payals/payal6.3227a714f0702e48298c_n4duwd.jpg",
-        "description":  "Mantasa",
-        "detail": "Beautiful Mantasa \n Type: Golden. \n",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
         "price": "120"
     },
     {
         "id": 2,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659561/more-products/payals/payal5.ab1dad87074fc5f18125_ikgaqq.jpg",
-        "description":  "Mantasa",
-        "detail": "Beautiful Mantasa \n Type: Golden. \n",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
         "price": "50",
         "type": [
             {
@@ -24,8 +31,8 @@
     {
         "id": 3,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659557/more-products/payals/payal4.e091c0db5d2a77dc3f19_e1hc1v.jpg",
-        "description":  "Mantasa",
-        "detail": "Beautiful Mantasa \n Type: Golden. \n",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
         "price": "50",
         "type": [
             {
@@ -39,8 +46,8 @@
     {
         "id": 4,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659553/more-products/payals/payal3.34af598066f8b0b35915_udcff4.jpg",
-        "description":  "Mantasa",
-        "detail": "Beautiful Mantasa \n Type: Golden. \n",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
         "price": "50",
         "type": [
             {
@@ -54,8 +61,8 @@
     {
         "id": 5,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659544/more-products/payals/payal2.ad8fa869b4a10560946c_wnbau4.jpg",
-        "description":  "Mantasa",
-        "detail": "Beautiful Mantasa \n Type: Golden. \n",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
         "price": "80",
         "type": [
             {
@@ -69,8 +76,8 @@
     {
         "id": 6,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659542/more-products/payals/payal1.59848e198496920d1a60_jefo7f.jpg",
-        "description":  "Mantasa",
-        "detail": "Beautiful Mantasa \n Type: Golden. \n",
+        "description":  "Payal",
+        "detail": "Beautiful Payal \n",
         "price": "60",
         "type": [
             {

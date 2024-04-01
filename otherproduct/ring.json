@@ -1,5 +1,42 @@
 [
     {
+        "id": 29,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1711865677/more-products/rings/rings29.webp",
+        "description":  "pearl Rings",
+        "detail": "Beautiful Rings \n Design: pearl-srone rings.\n",
+        "price": "40"
+    },
+    {
+        "id": 27,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1706634479/more-products/rings/rings27.1.webp",
+        "description":  "Rings",
+        "detail": "Beautiful Rings \n colour: black.\n",
+        "price": "40",
+        "type": [
+            {
+                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1706634479/more-products/rings/rings27.1.webp"
+            },
+            {
+                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1706634480/more-products/rings/rings27.webp"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1706634479/more-products/rings/rings28.1.webp",
+        "description":  "Rings",
+        "detail": "Beautiful Rings \n Design: Alphabets.\n",
+        "price": "20",
+        "type": [
+            {
+                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1706634479/more-products/rings/rings28.1.webp"
+            },
+            {
+                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1706634480/more-products/rings/rings28.webp"
+            }
+        ]
+    },
+    {
         "id": 1,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659525/more-products/rings/rings23.1.f7e35191dff435439afb_ctntor.jpg",
         "description":  "Rings",

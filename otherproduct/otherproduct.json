@@ -22,5 +22,11 @@
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697659564/more-products/payals/payal6.3227a714f0702e48298c_n4duwd.jpg",
         "category": "Payals",
         "goto": "/products/otherproduct/otherproducts/payal"
+    },
+    {
+        "id": 5,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1711863766/more-products/Forehead-ornaments/forehead-ornament10.webp",
+        "category": "Forehead Ornaments",
+        "goto": "/products/otherproduct/otherproducts/forehead-ornament"
     }
 ]

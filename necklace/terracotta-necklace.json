@@ -136,21 +136,6 @@
         ]
     },
     {
-        "id": 15,
-        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222874/necklace/terracotta-necklace/terracotta_jewellery32.1.ccb9cfc42a66598a48de_rdb9pt.jpg",
-        "description": "Terracotta Necklace",
-        "detail": "Beautiful Terracotta Necklace \n color: Pink. \n Earring: 1 pair. ",
-        "price": "280",
-        "type": [
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222874/necklace/terracotta-necklace/terracotta_jewellery32.1.ccb9cfc42a66598a48de_rdb9pt.jpg"
-            },
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222860/necklace/terracotta-necklace/terracotta_jewellery32.2.f526aa7af6382ecf840c_vami9o.jpg"
-            }
-        ]
-    },
-    {
         "id": 16,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222873/necklace/terracotta-necklace/terracotta_jewellery28.1.ec225ec43f973a080c72_vvx38b.jpg",
         "description": "Terracotta Necklace",
@@ -265,23 +250,11 @@
     },
     {
         "id": 24,
-        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222859/necklace/terracotta-necklace/terracotta_jewellery24.1.ec8a1248e0c1112b81ff_uzxloe.jpg",
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222845/necklace/terracotta-necklace/terracotta_jewellery26.1.ba5966c4cf72a435436b_mws99g.jpg",
         "description": "Terracotta Necklace",
-        "detail": "Beautiful Terracotta Necklace \n color: Pink. \n Earring: 1 pair. ",
+        "detail": "Beautiful Terracotta Necklace \n color: black. \n Earring: 1 pair. ",
         "price": "320",
         "type": [
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222859/necklace/terracotta-necklace/terracotta_jewellery24.1.ec8a1248e0c1112b81ff_uzxloe.jpg"
-            },
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222831/necklace/terracotta-necklace/terracotta_jewellery24.2.568c8f14c4adc8311710_eufist.jpg"
-            },
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222852/necklace/terracotta-necklace/terracotta_jewellery25.1.afa70fc2ee7dd923be41_ivpphi.jpg"
-            },
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222836/necklace/terracotta-necklace/terracotta_jewellery25.2.7be297976a8af77c49ae_od4xeb.jpg"
-            },
             {
                 "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222845/necklace/terracotta-necklace/terracotta_jewellery26.1.ba5966c4cf72a435436b_mws99g.jpg"
             },
@@ -294,7 +267,7 @@
         "id": 25,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222854/necklace/terracotta-necklace/terracotta_jewellery31.1.09c60aa35b2ca9941cb0_ugmff8.jpg",
         "description": "Terracotta Necklace",
-        "detail": "Beautiful Terracotta Necklace \n color: Pink. \n Earring: 1 pair. ",
+        "detail": "Beautiful Terracotta Necklace \n color: green.\n Design: Radha Krishna \n Earring: 1 pair. ",
         "price": "320",
         "type": [
             {
@@ -407,21 +380,6 @@
             },
             {
                 "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222826/necklace/terracotta-necklace/terracotta_jewellery12.2.1439ae0c70bcc3c7627b_tzyxrn.jpg"
-            }
-        ]
-    },
-    {
-        "id": 34,
-        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222822/necklace/terracotta-necklace/terracotta_jewellery9.1.3227985fbe9d83dccd0a_odml5r.jpg",
-        "description": "Terracotta Necklace",
-        "detail": "Beautiful Terracotta Necklace \n color: Pink. \n Earring: 1 pair. ",
-        "price": "165",
-        "type": [
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222822/necklace/terracotta-necklace/terracotta_jewellery9.1.3227985fbe9d83dccd0a_odml5r.jpg"
-            },
-            {
-                "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697222822/necklace/terracotta-necklace/terracotta_jewellery9.2.b2612924b959676e901d_hhnl13.jpg"
             }
         ]
     },

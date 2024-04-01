@@ -1,6 +1,41 @@
 [
     {
         "id": 1,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1705989791/earring/oxydized-earrings/oxydized-earring26.webp",
+        "description": "Oxydized Earring",
+        "detail": "Beautiful Oxydized Earring",
+        "price": "150"
+    },
+    {
+        "id": 25,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1700128263/earring/oxydized-earrings/Oxydized-earring25.webp",
+        "description": "Oxydized Earring",
+        "detail": "Beautiful Oxydized Earring",
+        "price": "120"
+    },
+    {
+        "id": 22,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1700128262/earring/oxydized-earrings/Oxydized-earring22.webp",
+        "description": "Oxydized Earring",
+        "detail": "Beautiful Oxydized Earring",
+        "price": "120"
+    },
+    {
+        "id": 23,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1700128261/earring/oxydized-earrings/Oxydized-earring23.webp",
+        "description": "Oxydized Earring",
+        "detail": "Beautiful Oxydized Earring",
+        "price": "120"
+    },
+    {
+        "id": 24,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1700128261/earring/oxydized-earrings/Oxydized-earring24.webp",
+        "description": "Oxydized Earring",
+        "detail": "Beautiful Oxydized Earring",
+        "price": "120"
+    },
+    {
+        "id": 1,
         "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1697729468/earring/oxydized-earrings/oxydizedearrings24.20c992a6cd6b3e952498_vokuqt.jpg",
         "description": "Oxydized Earring",
         "detail": "Beautiful Oxydized Earring",
