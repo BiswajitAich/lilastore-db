@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712315023/men/chains/men-chain9.webp",
+        "category": "Chains",
+        "goto": "/menProducts/chain"
+    },
+    {
+        "id": 2,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712314480/men/bracelets/men-breslet1.webp",
+        "category": "Bracelets",
+        "goto": "/menProducts/bracelet"
+    },
+    {
+        "id": 3,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712314691/men/rings/men-ring3.webp",
+        "category": "Rings",
+        "goto": "/menProducts/ring"
+    }
+]

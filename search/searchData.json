@@ -1,94 +1,102 @@
 [
     {
         "name": "Golden Necklace",
-        "link": "/lilastore/products/necklace/necklaces/golden-necklace"
+        "link": "/lilastore/necklaces/golden-necklace"
     },
     {
         "name": "Golden Earring",
-        "link": "/lilastore/products/earring/earrings/golden-earring"
+        "link": "/lilastore/earrings/golden-earring"
     },
     {
         "name": "Golden Bangle",
-        "link": "/lilastore/products/bangle/bangles/golden-bangle"
+        "link": "/lilastore/bangles/golden-bangle"
     },
     {
         "name": "Oxidized Necklace",
-        "link": "/lilastore/products/necklace/necklaces/oxydized-necklace"
+        "link": "/lilastore/necklaces/oxydized-necklace"
     },
     {
         "name": "Oxidized Earring",
-        "link": "/lilastore/products/earring/earrings/oxydized-earring"
+        "link": "/lilastore/earrings/oxydized-earring"
     },
     {
         "name": "Oxidized Bangle",
-        "link": "/lilastore/products/bangle/bangles/oxydized-bangle"
+        "link": "/lilastore/bangles/oxydized-bangle"
     },
     {
         "name": "Terracotta Necklace",
-        "link": "/lilastore/products/necklace/necklaces/terracotta-necklace"
+        "link": "/lilastore/necklaces/terracotta-necklace"
     },
     {
         "name": "Terracotta Earring",
-        "link": "/lilastore/products/earring/earrings/terracotta-earring"
+        "link": "/lilastore/earrings/terracotta-earring"
     },
     {
         "name": "Chemicalbead Necklace",
-        "link": "/lilastore/products/necklace/necklaces/chemicalbead-necklace"
+        "link": "/lilastore/necklaces/chemicalbead-necklace"
     },
     {
         "name": "Kundan Necklace",
-        "link": "/lilastore/products/necklace/necklaces/kundan-necklace"
+        "link": "/lilastore/necklaces/kundan-necklace"
     },
     {
         "name": "Fancy Necklace",
-        "link": "/lilastore/products/necklace/necklaces/fancy-necklace"
+        "link": "/lilastore/necklaces/fancy-necklace"
     },
     {
         "name": "Choker",
-        "link": "/lilastore/products/necklace/necklaces/choker"
+        "link": "/lilastore/necklaces/choker"
     },
     {
         "name": "Mangalsutra",
-        "link": "/lilastore/products/necklace/necklaces/mangalsutra"
+        "link": "/lilastore/necklaces/mangalsutra"
     },
     {
         "name": "Stone Earring",
-        "link": "/lilastore/products/earring/earrings/adstone-earring"
+        "link": "/lilastore/earrings/adstone-earring"
     },
     {
         "name": "AD Stone Earring",
-        "link": "/lilastore/products/earring/earrings/adstone-earring"
+        "link": "/lilastore/earrings/adstone-earring"
     },
     {
         "name": "Funky Earring",
-        "link": "/lilastore/products/earring/earrings/funky-earring"
+        "link": "/lilastore/earrings/funky-earring"
     },
     {
         "name": "Fancy Earring",
-        "link": "/lilastore/products/earring/earrings/fancy-earring"
+        "link": "/lilastore/earrings/fancy-earring"
     },
     {
         "name": "Bracelets",
-        "link": "/lilastore/products/bangle/bangles/bracelet"
+        "link": "/lilastore/bangles/bracelet"
     },
     {
         "name": "Mantasa",
-        "link": "/lilastore/products/bangle/bangles/mantasa"
+        "link": "/lilastore/bangles/mantasa"
     },
     {
         "name": "Chains",
-        "link": "/lilastore/products/otherproduct/otherproducts/chain"
+        "link": "/lilastore/otherproducts/chain"
     },
     {
         "name": "Kamarband",
-        "link": "/lilastore/products/otherproduct/otherproducts/kamarband"
+        "link": "/lilastore/otherproducts/kamarband"
     },
     {
         "name": "Rings",
-        "link": "/lilastore/products/otherproduct/otherproducts/ring"
+        "link": "/lilastore/otherproducts/ring"
     },
     {
         "name": "Payals",
-        "link": "/lilastore/products/otherproduct/otherproducts/payal"
+        "link": "/lilastore/otherproducts/payal"
+    },
+    {
+        "name": "Bridal set",
+        "link": "/lilastore/necklaces/bridal-set"
+    },
+    {
+        "name": "Stone necklace",
+        "link": "/lilastore/necklaces/stone-necklace"
     }
 ]

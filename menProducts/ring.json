@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712314694/men/rings/men-ring1.webp",
+        "description": "Ring",
+        "detail": "Beautiful Ring \n Color: Golden. \n",
+        "price": "..."
+    },
+    {
+        "id": 2,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712314694/men/rings/men-ring2.webp",
+        "description": "Ring",
+        "detail": "Beautiful Ring \n Color: Golden. \n",
+        "price": "..."
+    },
+    {
+        "id": 3,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712314694/men/rings/men-ring2.webp",
+        "description": "Ring",
+        "detail": "Beautiful Ring \n Color: Black. \n",
+        "price": "..."
+    },
+    {
+        "id": 4,
+        "url": "https://res.cloudinary.com/di3zlyh9o/image/upload/v1712314686/men/rings/men-ring4.webp",
+        "description": "Ring",
+        "detail": "Beautiful Ring \n Color: Golden, silver, black. \n",
+        "price": "..."
+    }
+]
