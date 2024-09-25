@@ -1,0 +1,18 @@
+{
+  "name": "lila-store-app-db",
+  "version": "1.0.0",
+  "main": "serverDB.ts",
+  "scripts": {
+    "start": "tsc && node dist/serverDB.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.6.1"
+  }
+}

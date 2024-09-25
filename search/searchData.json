@@ -1,102 +1,102 @@
 [
     {
         "name": "Golden Necklace",
-        "link": "/lilastore/necklaces/golden-necklace"
+        "link": "/necklaces/golden-necklace"
     },
     {
         "name": "Golden Earring",
-        "link": "/lilastore/earrings/golden-earring"
+        "link": "/earrings/golden-earring"
     },
     {
         "name": "Golden Bangle",
-        "link": "/lilastore/bangles/golden-bangle"
+        "link": "/bangles/golden-bangle"
     },
     {
         "name": "Oxidized Necklace",
-        "link": "/lilastore/necklaces/oxydized-necklace"
+        "link": "/necklaces/oxydized-necklace"
     },
     {
         "name": "Oxidized Earring",
-        "link": "/lilastore/earrings/oxydized-earring"
+        "link": "/earrings/oxydized-earring"
     },
     {
         "name": "Oxidized Bangle",
-        "link": "/lilastore/bangles/oxydized-bangle"
+        "link": "/bangles/oxydized-bangle"
     },
     {
         "name": "Terracotta Necklace",
-        "link": "/lilastore/necklaces/terracotta-necklace"
+        "link": "/necklaces/terracotta-necklace"
     },
     {
         "name": "Terracotta Earring",
-        "link": "/lilastore/earrings/terracotta-earring"
+        "link": "/earrings/terracotta-earring"
     },
     {
         "name": "Chemicalbead Necklace",
-        "link": "/lilastore/necklaces/chemicalbead-necklace"
+        "link": "/necklaces/chemicalbead-necklace"
     },
     {
         "name": "Kundan Necklace",
-        "link": "/lilastore/necklaces/kundan-necklace"
+        "link": "/necklaces/kundan-necklace"
     },
     {
         "name": "Fancy Necklace",
-        "link": "/lilastore/necklaces/fancy-necklace"
+        "link": "/necklaces/fancy-necklace"
     },
     {
         "name": "Choker",
-        "link": "/lilastore/necklaces/choker"
+        "link": "/necklaces/choker"
     },
     {
         "name": "Mangalsutra",
-        "link": "/lilastore/necklaces/mangalsutra"
+        "link": "/necklaces/mangalsutra"
     },
     {
         "name": "Stone Earring",
-        "link": "/lilastore/earrings/adstone-earring"
+        "link": "/earrings/adstone-earring"
     },
     {
         "name": "AD Stone Earring",
-        "link": "/lilastore/earrings/adstone-earring"
+        "link": "/earrings/adstone-earring"
     },
     {
         "name": "Funky Earring",
-        "link": "/lilastore/earrings/funky-earring"
+        "link": "/earrings/funky-earring"
     },
     {
         "name": "Fancy Earring",
-        "link": "/lilastore/earrings/fancy-earring"
+        "link": "/earrings/fancy-earring"
     },
     {
         "name": "Bracelets",
-        "link": "/lilastore/bangles/bracelet"
+        "link": "/bangles/bracelet"
     },
     {
         "name": "Mantasa",
-        "link": "/lilastore/bangles/mantasa"
+        "link": "/bangles/mantasa"
     },
     {
         "name": "Chains",
-        "link": "/lilastore/otherproducts/chain"
+        "link": "/otherproducts/chain"
     },
     {
         "name": "Kamarband",
-        "link": "/lilastore/otherproducts/kamarband"
+        "link": "/otherproducts/kamarband"
     },
     {
         "name": "Rings",
-        "link": "/lilastore/otherproducts/ring"
+        "link": "/otherproducts/ring"
     },
     {
         "name": "Payals",
-        "link": "/lilastore/otherproducts/payal"
+        "link": "/otherproducts/payal"
     },
     {
         "name": "Bridal set",
-        "link": "/lilastore/necklaces/bridal-set"
+        "link": "/necklaces/bridal-set"
     },
     {
         "name": "Stone necklace",
-        "link": "/lilastore/necklaces/stone-necklace"
+        "link": "/necklaces/stone-necklace"
     }
 ]
