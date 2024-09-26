@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "tsc && nodemon dist/serverDB.js",
-    "vercel-build": "echo hello"
+    "vercel-build": "tsc && nodemon dist/serverDB.js"
   },
   "keywords": [],
   "author": "",
