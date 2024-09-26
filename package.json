@@ -4,7 +4,8 @@
   "main": "serverDB.ts",
   "type": "module",
   "scripts": {
-    "start": "tsc && nodemon dist/serverDB.js"
+    "start": "tsc && nodemon dist/serverDB.js",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
