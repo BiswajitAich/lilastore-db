@@ -2,7 +2,7 @@ import express, { Request, Response } from 'express';
 import { spawn } from "child_process";
 const app = express();
 
-app.get('/get-recommendation', (req: any, res: any) => {
+app.get('/get-recommendation', (req: Request, res: any) => {
     try {
         const id = req.query.id as string | undefined;
         if (!id) {
