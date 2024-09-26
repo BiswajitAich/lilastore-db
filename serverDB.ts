@@ -33,7 +33,7 @@ app.get('/get-recommendation', (req: Request, res: any) => {
     }
 })
 
-app.get('/set-recommendation', (_req, res: Response) => {
+app.get('/set-recommendation', (_req: Request, res: Response) => {
     try {
         const childPython = spawn('python', ['./recommendation/recommendationSystem.py'])
         let errorOccurred = false;
