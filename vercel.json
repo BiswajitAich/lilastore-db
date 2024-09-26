@@ -1,7 +1,7 @@
 { "version": 2,
   "builds": [
     { 
-      "src": "./serverDB.ts",
+      "src": "dist/serverDB.js",
       "use": "@vercel/node" 
     }
   ],

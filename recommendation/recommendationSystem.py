@@ -1,12 +1,12 @@
-import sys
 import pandas as pd
+import numpy as np
 import regex as re
 import json
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 from nltk.stem.porter import PorterStemmer
-id = sys.argv[1]
+
 paths = [
         "/bangle/bracelet",
         "/bangle/mantasa",
@@ -44,14 +44,14 @@ def get_data():
                     item['path'] = path
                 data.extend(jsdata)
         except FileNotFoundError:
-            print(f"File {path}.json not found.")#lila-store-app-db\bangle\bracelet.json
+            print(f"File {path[1:]}.json not found.")
     return data
 
 def process_df(df):
-  df['detail']=df['detail'].apply(lambda x: x.replace('[\n]',''))
-  df['detail'] = df['detail'].apply(lambda x: ' '.join(re.sub('[".,:()]', ' ', x).replace('\n', ' ').lower().split()).strip())
-  df['description'] = df["description"].apply(lambda x: x.lower().strip())
-  return df
+    df['detail'] = df['detail'].apply(lambda x: x.replace('[\n]', '') if isinstance(x, str) else '')
+    df['detail'] = df['detail'].apply(lambda x: ' '.join(re.sub('[".,:()]', ' ', x).replace('\n', ' ').lower().split()).strip())
+    df['description'] = df["description"].apply(lambda x: x.lower().strip())
+    return df
 
 def join_columns(row):
     columns_to_join = ['price', 'detail', 'description']
@@ -77,24 +77,9 @@ cv = CountVectorizer(max_features=1000, stop_words='english')
 vectors = cv.fit_transform(df['tags']).toarray()
 cos_sim = cosine_similarity(vectors)
 
-def recomendation(path_id):
-    if path_id not in df['path_id'].values:
-        print(f"Product with path_id '{path_id}' not found.")
-        return []
-    
-    product_index = df[df['path_id'] == path_id].index[0]
-    distances = cos_sim[product_index]
-    product_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x:x[1])[1:11]
-    
-    recomends = []
-    for i in product_list:
-        recomends.append({
-            'path': df.iloc[i[0]].path_id,
-            'url': df.iloc[i[0]].url
-        })
-    
-    return recomends
 
-
-recomends = recomendation(id)
-print(json.dumps(recomends))
+try:
+    np.save('recommendation/cos_sim.npy', cos_sim)
+    df.to_pickle('recommendation/recommendation_data.pkl')
+except FileNotFoundError:
+    print(f"File cos_sim.npy | recommendation_data.pkl not saved.")
