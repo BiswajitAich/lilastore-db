@@ -1,2 +1,7 @@
 /server.ts
 /node_modules
+/package-lock.json
+/package.json
+/serverDB.ts
+/tsconfif.json
+/Dockerfile

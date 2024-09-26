@@ -1,13 +1,13 @@
-import json
-import sys
+# import json
+# import sys
 import numpy as np
 import pandas as pd
 
-id = sys.argv[1]
+# id = sys.argv[1]
 cos_sim = np.load('recommendation/cos_sim.npy')
 df = pd.read_pickle('recommendation/recommendation_data.pkl')
 
-def recommendation(path_id):
+def getRecommendation(path_id):
     if path_id not in df['path_id'].values:
         print(f"Product with path_id '{path_id}' not found.")
         return []
@@ -26,5 +26,5 @@ def recommendation(path_id):
     return recommends
 
 
-recommends = recommendation(id)
-print(json.dumps(recommends))
+# recommends = recommendation(id)
+# print(json.dumps(recommends))
