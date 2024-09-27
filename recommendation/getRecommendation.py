@@ -20,7 +20,8 @@ def getRecommendation(path_id):
     for i in product_list:
         recommends.append({
             'path': df.iloc[i[0]].path_id,
-            'url': df.iloc[i[0]].url
+            'url': df.iloc[i[0]].url,
+            'price': df.iloc[i[0]].price
         })
     
     return recommends

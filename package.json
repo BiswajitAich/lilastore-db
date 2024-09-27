@@ -1,12 +1,12 @@
 {
   "name": "lila-store-app-db",
   "version": "1.0.0",
-  "main": "dist/serverDB.js",
+  "main": "dist/server.js",
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/serverDB.js",
-    "dev": "nodemon dist/serverDB.js"
+    "start": "node dist/server.js",
+    "dev": "tsc && nodemon dist/server.js"
   },
   "keywords": [],
   "author": "",

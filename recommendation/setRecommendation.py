@@ -8,31 +8,29 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 
 paths = [
-        "/bangle/bracelet",
-        "/bangle/mantasa",
-        "/bangle/golden-bangle",
-        "/bangle/oxydized-bangle",
-        "/cosmetic/makeup",
-        "/cosmetic/makeup",
-        "/earring/adstone-earring",
-        "/earring/adstone-earring",
-        "/earring/fancy-earring",
-        "/earring/funky-earring",
-        "/earring/golden-earring",
-        "/earring/oxydized-earring",
-        "/earring/terracotta-earring",
-        "/necklace/chemicalbead-necklace",
-        "/necklace/choker",
-        "/necklace/fancy-necklace",
-        "/necklace/golden-necklace",
-        "/necklace/kundan-necklace",
-        "/necklace/mangalsutra",
-        "/necklace/oxydized-necklace",
-        "/necklace/terracotta-necklace",
-        "/otherproduct/chain",
-        "/otherproduct/kamarband",
-        "/otherproduct/payal",
-        "/otherproduct/ring"
+        "/bangles/bracelet",
+        "/bangles/mantasa",
+        "/bangles/golden-bangle",
+        "/bangles/oxydized-bangle",
+        "/cosmetics/makeup",
+        "/earrings/adstone-earring",
+        "/earrings/fancy-earring",
+        "/earrings/funky-earring",
+        "/earrings/golden-earring",
+        "/earrings/oxydized-earring",
+        "/earrings/terracotta-earring",
+        "/necklaces/chemicalbead-necklace",
+        "/necklaces/choker",
+        "/necklaces/fancy-necklace",
+        "/necklaces/golden-necklace",
+        "/necklaces/kundan-necklace",
+        "/necklaces/mangalsutra",
+        "/necklaces/oxydized-necklace",
+        "/necklaces/terracotta-necklace",
+        "/otherproducts/chain",
+        "/otherproducts/kamarband",
+        "/otherproducts/payal",
+        "/otherproducts/ring"
         ]
 def get_data():
     data = []
@@ -73,7 +71,7 @@ def setRecommendation():
         df['tags'] = df.apply(join_columns, axis=1)
         df["tags"] = df["tags"].apply(lambda x: x)
         df['path_id'] = df['path'] + '/' + df['id'].astype(str)
-        df.drop(['price', 'detail', 'description', 'type', 'path', 'id'], axis=1, inplace=True)
+        df.drop(['detail', 'description', 'type', 'path', 'id'], axis=1, inplace=True)
         df['tags'] = df['tags'].apply(stem)
         cv = CountVectorizer(max_features=1000, stop_words='english')
         vectors = cv.fit_transform(df['tags']).toarray()
@@ -81,7 +79,7 @@ def setRecommendation():
 
         np.save('recommendation/cos_sim.npy', cos_sim)
         df.to_pickle('recommendation/recommendation_data.pkl')
-
+        # print(df.head())
         return "Successfully updated"
     except Exception as e:
         return ("Unsuccesfull",e)
