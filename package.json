@@ -9,9 +9,9 @@
     "dev": "tsc && nodemon dist/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "biswajit aich",
   "license": "ISC",
-  "description": "",
+  "description": "backend for lilastore website.",
   "dependencies": {
     "express": "^4.21.0"
   },
